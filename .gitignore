@@ -9,3 +9,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment & secrets — never commit real keys
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+!.env.sample
