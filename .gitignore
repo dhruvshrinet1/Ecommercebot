@@ -17,3 +17,4 @@ wheels/
 *.env.*
 !.env.example
 !.env.sample
+.env
